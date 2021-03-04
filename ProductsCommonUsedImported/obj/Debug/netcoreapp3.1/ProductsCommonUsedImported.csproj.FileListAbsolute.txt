@@ -1,0 +1,13 @@
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\bin\Debug\netcoreapp3.1\ProductsCommonUsedImported.exe
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\bin\Debug\netcoreapp3.1\ProductsCommonUsedImported.deps.json
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\bin\Debug\netcoreapp3.1\ProductsCommonUsedImported.runtimeconfig.json
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\bin\Debug\netcoreapp3.1\ProductsCommonUsedImported.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\bin\Debug\netcoreapp3.1\ProductsCommonUsedImported.dll
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\bin\Debug\netcoreapp3.1\ProductsCommonUsedImported.pdb
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\obj\Debug\netcoreapp3.1\ProductsCommonUsedImported.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\obj\Debug\netcoreapp3.1\ProductsCommonUsedImported.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\obj\Debug\netcoreapp3.1\ProductsCommonUsedImported.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\obj\Debug\netcoreapp3.1\ProductsCommonUsedImported.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\obj\Debug\netcoreapp3.1\ProductsCommonUsedImported.dll
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\obj\Debug\netcoreapp3.1\ProductsCommonUsedImported.pdb
+C:\Users\bruno\Desktop\Projetos VS\ProductsCommonUsedImported\ProductsCommonUsedImported\obj\Debug\netcoreapp3.1\ProductsCommonUsedImported.genruntimeconfig.cache
